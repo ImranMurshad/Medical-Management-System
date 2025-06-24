@@ -1,0 +1,42 @@
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\bin\Debug\MedicalMngSysem.exe
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\bin\Debug\MedicalMngSysem.pdb
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.MainForm.resources
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.Properties.Resources.resources
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.csproj.GenerateResource.Cache
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.exe
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.pdb
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\bin\Debug\MedicalMngSysem.exe.config
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.Stock.resources
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.Form1.resources
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.CustomerBook.resources
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.Bill.resources
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.PrintBill.resources
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.Trancation.resources
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.LoginForm.resources
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.AboutUs.resources
+C:\Users\Imran\Desktop\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.Dashboard.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\bin\Debug\MedicalMngSysem.exe.config
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.exe
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.pdb
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\bin\Debug\MedicalMngSysem.exe
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\bin\Debug\MedicalMngSysem.pdb
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.csprojResolveAssemblyReference.cache
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.AboutUs.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.Bill.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.CustomerBook.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.Dashboard.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.Form1.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.LoginForm.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.MainForm.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.PrintBill.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.Properties.Resources.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.Stock.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.Trancation.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.csproj.GenerateResource.Cache
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\Genral_Software.Customer.UserReq.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.Customer.UserReqWindow.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.Product.StockWindow.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\Genral_Software.CompanyDetails.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\ElectronicShop.Report.ReportMaster.resources
+E:\Projects\ADO.NET Projects\MedicalMngSysem\MedicalMngSysem\obj\x86\Debug\MedicalMngSysem.Report.BillPrint.resources
